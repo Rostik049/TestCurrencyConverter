@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "WICd/wf0dT++3GGONs4zWwiJnUNxGMG6w0ryQtJuHxUsjfHpSMe/C8EdN5vJlPP0SlIeN54xQcRelR4pKdajrQ==",
+  "success": true,
+  "projectFilePath": "D:\\TestCurrencyConverter\\TestCurrencyConverter\\TestCurrencyConverter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Алексей\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

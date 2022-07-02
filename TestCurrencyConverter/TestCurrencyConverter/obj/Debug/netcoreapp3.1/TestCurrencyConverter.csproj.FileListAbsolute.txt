@@ -1,0 +1,16 @@
+D:\TestCurrencyConverter\TestCurrencyConverter\bin\Debug\netcoreapp3.1\TestCurrencyConverter.exe
+D:\TestCurrencyConverter\TestCurrencyConverter\bin\Debug\netcoreapp3.1\TestCurrencyConverter.deps.json
+D:\TestCurrencyConverter\TestCurrencyConverter\bin\Debug\netcoreapp3.1\TestCurrencyConverter.runtimeconfig.json
+D:\TestCurrencyConverter\TestCurrencyConverter\bin\Debug\netcoreapp3.1\TestCurrencyConverter.runtimeconfig.dev.json
+D:\TestCurrencyConverter\TestCurrencyConverter\bin\Debug\netcoreapp3.1\TestCurrencyConverter.dll
+D:\TestCurrencyConverter\TestCurrencyConverter\bin\Debug\netcoreapp3.1\TestCurrencyConverter.pdb
+D:\TestCurrencyConverter\TestCurrencyConverter\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\TestCurrencyConverter\TestCurrencyConverter\obj\Debug\netcoreapp3.1\TestCurrencyConverter.csproj.AssemblyReference.cache
+D:\TestCurrencyConverter\TestCurrencyConverter\obj\Debug\netcoreapp3.1\TestCurrencyConverter.GeneratedMSBuildEditorConfig.editorconfig
+D:\TestCurrencyConverter\TestCurrencyConverter\obj\Debug\netcoreapp3.1\TestCurrencyConverter.AssemblyInfoInputs.cache
+D:\TestCurrencyConverter\TestCurrencyConverter\obj\Debug\netcoreapp3.1\TestCurrencyConverter.AssemblyInfo.cs
+D:\TestCurrencyConverter\TestCurrencyConverter\obj\Debug\netcoreapp3.1\TestCurrencyConverter.csproj.CoreCompileInputs.cache
+D:\TestCurrencyConverter\TestCurrencyConverter\obj\Debug\netcoreapp3.1\TestCurrencyConverter.csproj.CopyComplete
+D:\TestCurrencyConverter\TestCurrencyConverter\obj\Debug\netcoreapp3.1\TestCurrencyConverter.dll
+D:\TestCurrencyConverter\TestCurrencyConverter\obj\Debug\netcoreapp3.1\TestCurrencyConverter.pdb
+D:\TestCurrencyConverter\TestCurrencyConverter\obj\Debug\netcoreapp3.1\TestCurrencyConverter.genruntimeconfig.cache
